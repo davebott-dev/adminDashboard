@@ -1,1 +1,2 @@
 # adminDashboard
+This is a project I coded for the Odin Project. It is a simple admin dashboard website design using both flexbox and grid to create the layout of the site. I also added some minor interactive features to the site. Most of the edits were done offline. 
